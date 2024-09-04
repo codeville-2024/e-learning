@@ -50,11 +50,14 @@ h1 {
     color: white;
 }
 
-body {
-    background-color: blue;
-    height: 100vh;
-    width: 100%;
+#color {
+    background-color: white;
     
+    
+}
+
+section {
+    background-color: blue;
 }
 #footer {
     display: flex;
@@ -62,18 +65,172 @@ body {
     margin: ;
     color: white;
     background-color:  #FF0B80;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
 }
-
 #abody {
     display: flex;
 }
 
 #kid {
     margin-right: -300px;
+    margin-bottom: -60px;
+    justify-content: right;
 }
 
 section{
     width: -100px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+#content {
+    display: flex;
+    justify-content: center;
+    margin-right: 18px;
+}
+#cu {
+    width: 500px;
+}
+p{
+    font-size: 30px;
+    width: 500px;
+}
+h2 {
+    font-size: 40px;
+}
+
+#acontent {
+    display: flex;
+    justify-content: center;
+    margin-right: 18px;
+}
+div {
+    margin-top: 60px;
+    
+}
+
+#cont {
+    display: flex;
+    justify-content: center;
+    margin-right: 18px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+   justify-content: center;
+}
+#tutorial {
+    text-align: center;
+    background-color: transparent;
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+}
+#tutorial h1, #tutorial p{
+    width: 100%;
+    color: #000;
+    max-width: 750px;
+    margin: auto;
+} 
+#fea {
+    font-size: 50px;
+    text-align: left;
+    color: black;
+}
+
+h3 {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 160px;
+}
+#page {
+    text-align: center;
+}
+#flex {
+    display: flex;
+    justify-content: space-between;
+}
+#tutorial {
+    background-color: green;
+}
+#rec {
+    color: white;
+}
+#secondflex {
+    display: flex;
+    justify-content: space-between;
+}
+.secrec {
+    width: 485px;
+    height: 425px;
+    top: 4829px;
+    left: 775px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+#say {
+   
+text-align: center;
+
+
+}
+#people {
+    width: 679px;
+height: 679px;
+top: 5773px;
+left: 18px;
+gap: 0px;
+opacity: 0px;
+
+}
+#purple {
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+}
+#come {
+    font-family: Century Gothic;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 44.31px;
+    text-align: left;
+    margin-top: 200px;
+    
+}
+#my-footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+#last {
+   
+    text-align: center;
+}
+ul {
+    margin: 20px;
+    list-style: none;
+    text-decoration: none;
+    justify-content: flex-end;
+    
+}
+ul li {
+    margin: 20px;
+    list-style: none;
+}
+
+ul a{
+    text-decoration: none;
+    color: black;
+
 }
