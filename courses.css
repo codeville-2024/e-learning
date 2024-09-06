@@ -1,0 +1,124 @@
+nav {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navlinks {
+    margin: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: auto;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 650px;
+}
+
+.navlinks li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.navlinks li a {
+    text-decoration: none;
+    color: tomato;
+    font-weight: ;
+
+}
+.mylogo {
+    position: absolute;
+    height: auto;
+    left: 0px;
+    width: 250px;
+    
+}
+#container {
+    display: flex;
+}
+#search {
+    text-align: center;
+}
+#desire {
+    font-size: 50px;
+}
+.scontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+form{
+    background-color: #fff;
+    height: 55px;
+    display: flex;
+}
+form input {
+    flex: 1;
+    outline: none;
+    font-size: 23px;
+     
+}
+form button {
+    background-color: tomato;
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer; 
+}
+#topic {
+    text-align: center;
+    font-size: 80px;
+    color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#video {
+  display: flex;
+  height: 225px;
+  justify-content: space-around;
+ 
+}
+#svideo {
+    display: flex;
+    height: 225px;
+    justify-content: space-around;
+   
+  }
+  #avideo {
+    display: flex;
+    height: 225px;
+    justify-content: space-around;
+   
+  }
+  #tvideo {
+    display: flex;
+    height: 225px;
+    justify-content: space-around;
+   
+  }
+  #my-footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+#last {
+   
+    text-align: center;
+}
+ul {
+    margin: 20px;
+    list-style: none;
+    text-decoration: none;
+    justify-content: flex-end;
+    
+}
+ul li {
+    margin: 20px;
+    list-style: none;
+}
+
+ul a{
+    text-decoration: none;
+    color: black;
+
+}

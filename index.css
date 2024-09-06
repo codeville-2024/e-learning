@@ -34,6 +34,12 @@ button {
     border-radius: 20px;
 
 }
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-weight: ;
+}
 .mylogo {
     position: absolute;
     height: auto;
@@ -47,7 +53,7 @@ button {
 h1 {
     font-weight: bold;
     font-size: 70px;
-    color: white;
+    color: black;
 }
 
 #color {
@@ -71,7 +77,9 @@ section {
 #abody {
     display: flex;
 }
-
+#abody h1 {
+    font-size: 80px;
+} 
 #kid {
     margin-right: -300px;
     margin-bottom: -60px;
@@ -87,7 +95,7 @@ h1 {
 }
 #content {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin-right: 18px;
 }
 #cu {
@@ -103,7 +111,7 @@ h2 {
 
 #acontent {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin-right: 18px;
 }
 div {
@@ -144,7 +152,7 @@ img {
 } 
 #fea {
     font-size: 50px;
-    text-align: left;
+    text-align: center;
     color: black;
 }
 
@@ -158,7 +166,7 @@ h3 {
 }
 #flex {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 #tutorial {
     background-color: green;
@@ -168,7 +176,7 @@ h3 {
 }
 #secondflex {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .secrec {
     width: 485px;
