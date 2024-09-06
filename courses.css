@@ -122,3 +122,8 @@ ul a{
     color: black;
 
 }
+
+#video {
+    display: flex;
+    gap: 100px 150px;
+}
