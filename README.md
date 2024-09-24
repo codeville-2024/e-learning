@@ -9,4 +9,3 @@ Here is a live link: https://codeville-2024.github.io/e-learning/
 ## Technologies
 * HTML
 * CSS
-* Javascript
